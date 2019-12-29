@@ -1,6 +1,6 @@
 {
     "name": "proyect-1a-math",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Project od math, for trining nodejs and upload to NPM",
     "main": "index.js",
     "scripts": {
