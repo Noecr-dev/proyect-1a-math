@@ -11,3 +11,5 @@ console.log(m.mul(n, 7));
 console.log(m.mul(n, 8));
 console.log(m.mul(n, 9));
 console.log(m.mul(n, 10));
+
+console.log(m.sum(true, 1));
